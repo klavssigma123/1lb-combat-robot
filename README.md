@@ -1,1 +1,1 @@
-# 1lb-combat-robot
+This project focuses on the design and development of a 1lb four wheel drive combat robot. The robot was designed using Fusion 360 and with a goal of being high reliabilaty and dominating the competition.
